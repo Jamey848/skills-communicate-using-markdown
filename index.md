@@ -8,3 +8,6 @@
 
 #### Ain't that beautiful? I want to walk that road...
 ![Beautiful road](https://github.com/ServiceStack/images/blob/master/hero/photo-1446329813274-7c9036bd9a1f.jpg)
+
+#### Also an image of this cat...
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
